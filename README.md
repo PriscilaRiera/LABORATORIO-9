@@ -17,6 +17,8 @@
 
 ## MATERIALES
 
+![image](https://user-images.githubusercontent.com/105740772/186826659-b0eac716-38b8-4ab3-9ad3-3e0b520f6729.png)
+
 ## PROCEDIMIENTO
 - 9.5.1 Sin emplear calculadora. Transforme a su forma polar:
 
